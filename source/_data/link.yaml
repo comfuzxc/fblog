@@ -1,0 +1,7 @@
+- class_name: 友情鏈接
+  class_desc: Ymjie's Blog
+  link_list:
+    - name: Hexo
+      link: https://brey.cn/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 大佬的博客。
