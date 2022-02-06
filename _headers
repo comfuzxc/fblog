@@ -1,4 +1,4 @@
-/fw
+https://bccc8dfe.fblog.pages.dev/json.php
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: POST
   Access-Control-Allow-Headers: Origin, X-Requested-With, Control-Type, Content-Type, token, Accept, x-access-sign, x-access-time
